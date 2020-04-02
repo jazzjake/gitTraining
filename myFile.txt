@@ -1,2 +1,4 @@
 my file
 another mod
+feature 2
+
